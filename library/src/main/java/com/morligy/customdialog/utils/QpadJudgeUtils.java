@@ -1,4 +1,4 @@
-package com.mview.customdialog.utils;
+package com.morligy.customdialog.utils;
 
 import android.app.ActivityManager;
 import android.content.Context;

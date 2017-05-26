@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar.spans;
+package com.morligy.customdialog.view.calendar.spans;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

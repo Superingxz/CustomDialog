@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.base;
+package com.morligy.customdialog.view.dialog.base;
 
 import android.view.View;
 import android.view.animation.Interpolator;

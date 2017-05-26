@@ -1,9 +1,9 @@
-package com.mview.customdialog.view.dialog.use;
+package com.morligy.customdialog.view.dialog.use;
 
 import android.content.Context;
 
-import com.mview.customdialog.view.dialog.NormalProgressDialog;
-import com.mview.customdialog.R;
+import com.morligy.customdialog.view.dialog.NormalProgressDialog;
+import com.morligy.customdialog.R;
 
 public class QpadProgressUtils {
 	

@@ -1,8 +1,7 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.content.Context;
 import android.graphics.PorterDuff;
-import android.os.Build;
 import android.util.TypedValue;
 import android.widget.ImageView;
 

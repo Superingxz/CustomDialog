@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog;
+package com.morligy.customdialog.view.dialog;
 
 
 import android.app.Dialog;
@@ -22,7 +22,7 @@ import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.mview.customdialog.R;
+import com.morligy.customdialog.R;
 
 
 /**

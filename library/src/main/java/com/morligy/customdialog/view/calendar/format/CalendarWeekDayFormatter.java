@@ -1,7 +1,7 @@
-package com.mview.customdialog.view.calendar.format;
+package com.morligy.customdialog.view.calendar.format;
 
 
-import com.mview.customdialog.view.calendar.CalendarUtils;
+import com.morligy.customdialog.view.calendar.CalendarUtils;
 
 import java.util.Calendar;
 import java.util.Locale;

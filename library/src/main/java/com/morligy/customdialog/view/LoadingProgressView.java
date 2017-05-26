@@ -1,4 +1,4 @@
-package com.mview.customdialog.view;
+package com.morligy.customdialog.view;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -15,7 +15,7 @@ import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 import android.view.animation.LinearInterpolator;
 
-import com.mview.customdialog.R;
+import com.morligy.customdialog.R;
 
 import java.util.ArrayList;
 import java.util.List;

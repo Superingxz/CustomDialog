@@ -1,4 +1,4 @@
-package com.mview.customdialog.view;
+package com.morligy.customdialog.view;
 
 public class LoadingProgressViewAdapter implements LoadingProgressViewListener {
     @Override

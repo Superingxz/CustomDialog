@@ -1,4 +1,4 @@
-package com.mview.customdialog.bean.common;
+package com.morligy.customdialog.bean.common;
 
 import java.io.Serializable;
 

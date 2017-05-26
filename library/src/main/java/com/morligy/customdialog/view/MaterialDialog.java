@@ -1,4 +1,4 @@
-package com.mview.customdialog.view;
+package com.morligy.customdialog.view;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -6,8 +6,8 @@ import android.view.Gravity;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.mview.customdialog.view.dialog.base.BaseAlertDialog;
-import com.mview.customdialog.view.dialog.utils.CornerUtils;
+import com.morligy.customdialog.view.dialog.base.BaseAlertDialog;
+import com.morligy.customdialog.view.dialog.utils.CornerUtils;
 
 
 public class MaterialDialog extends BaseAlertDialog<MaterialDialog> {

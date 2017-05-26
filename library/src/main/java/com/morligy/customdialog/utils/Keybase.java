@@ -1,4 +1,4 @@
-package com.mview.customdialog.utils;
+package com.morligy.customdialog.utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

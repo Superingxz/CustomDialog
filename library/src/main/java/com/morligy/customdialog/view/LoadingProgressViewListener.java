@@ -1,4 +1,4 @@
-package com.mview.customdialog.view;
+package com.morligy.customdialog.view;
 
 /**
  * Listener interface to provide different callbacks for Circular Progress Views.

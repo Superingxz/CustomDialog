@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.entity;
+package com.morligy.customdialog.view.dialog.entity;
 
 public class DialogMenuItem
 {

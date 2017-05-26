@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 /**
  * Decorate Day views with drawables and text manipulation

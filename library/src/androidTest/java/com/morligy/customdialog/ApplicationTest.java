@@ -1,4 +1,4 @@
-package com.mview.customdialog;
+package com.morligy.customdialog;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

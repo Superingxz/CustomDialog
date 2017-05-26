@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.datatype;
+package com.morligy.customdialog.view.datatype;
 
 /**
  * 

@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -25,13 +25,13 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.mview.customdialog.R;
-import com.mview.customdialog.view.calendar.format.ArrayWeekDayFormatter;
-import com.mview.customdialog.view.calendar.format.DateFormatTitleFormatter;
-import com.mview.customdialog.view.calendar.format.DayFormatter;
-import com.mview.customdialog.view.calendar.format.MonthArrayTitleFormatter;
-import com.mview.customdialog.view.calendar.format.TitleFormatter;
-import com.mview.customdialog.view.calendar.format.WeekDayFormatter;
+import com.morligy.customdialog.R;
+import com.morligy.customdialog.view.calendar.format.ArrayWeekDayFormatter;
+import com.morligy.customdialog.view.calendar.format.DateFormatTitleFormatter;
+import com.morligy.customdialog.view.calendar.format.DayFormatter;
+import com.morligy.customdialog.view.calendar.format.MonthArrayTitleFormatter;
+import com.morligy.customdialog.view.calendar.format.TitleFormatter;
+import com.morligy.customdialog.view.calendar.format.WeekDayFormatter;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

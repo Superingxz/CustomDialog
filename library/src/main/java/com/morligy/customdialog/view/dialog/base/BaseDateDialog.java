@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.base;
+package com.morligy.customdialog.view.dialog.base;
 
 
 import android.content.Context;
@@ -12,7 +12,7 @@ import android.widget.DatePicker.OnDateChangedListener;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.mview.customdialog.view.dialog.listener.OnBtnSelectDateClickL;
+import com.morligy.customdialog.view.dialog.listener.OnBtnSelectDateClickL;
 
 
 public abstract class BaseDateDialog<T extends BaseDateDialog<T>> extends BaseDialog

@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.base;
+package com.morligy.customdialog.view.dialog.base;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -14,7 +14,7 @@ import android.widget.NumberPicker;
 import android.widget.TextView;
 import android.widget.TimePicker;
 
-import com.mview.customdialog.view.dialog.listener.OnBtnSelectDateAndTimeClickL;
+import com.morligy.customdialog.view.dialog.listener.OnBtnSelectDateAndTimeClickL;
 
 import java.util.ArrayList;
 import java.util.List;

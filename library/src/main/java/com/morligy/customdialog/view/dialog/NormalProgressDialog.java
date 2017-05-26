@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog;
+package com.morligy.customdialog.view.dialog;
 
 
 import android.app.Dialog;
@@ -8,8 +8,8 @@ import android.text.TextUtils;
 import android.view.WindowManager;
 import android.widget.TextView;
 
-import com.mview.customdialog.R;
-import com.mview.customdialog.view.LoadingProgressView;
+import com.morligy.customdialog.R;
+import com.morligy.customdialog.view.LoadingProgressView;
 
 
 public class NormalProgressDialog extends Dialog{

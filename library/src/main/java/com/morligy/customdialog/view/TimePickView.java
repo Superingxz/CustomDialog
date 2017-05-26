@@ -1,4 +1,4 @@
-package com.mview.customdialog.view;
+package com.morligy.customdialog.view;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.mview.customdialog.R;
+import com.morligy.customdialog.R;
 
 import java.util.Calendar;
 

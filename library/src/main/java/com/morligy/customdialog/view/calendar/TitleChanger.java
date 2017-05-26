@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 
 import android.animation.Animator;
@@ -9,7 +9,7 @@ import android.view.animation.DecelerateInterpolator;
 import android.view.animation.Interpolator;
 import android.widget.TextView;
 
-import com.mview.customdialog.view.calendar.format.TitleFormatter;
+import com.morligy.customdialog.view.calendar.format.TitleFormatter;
 
 
 class TitleChanger {

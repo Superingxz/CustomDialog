@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.base;
+package com.morligy.customdialog.view.dialog.base;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -15,7 +15,7 @@ import android.view.Window;
 import android.view.WindowManager.LayoutParams;
 import android.widget.LinearLayout;
 
-import com.mview.customdialog.view.dialog.utils.StatusBarUtils;
+import com.morligy.customdialog.view.dialog.utils.StatusBarUtils;
 import com.nineoldandroids.animation.Animator;
 
 public abstract class BaseDialog<T extends BaseDialog<T>> extends Dialog {

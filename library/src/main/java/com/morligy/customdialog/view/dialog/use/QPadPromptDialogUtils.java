@@ -1,9 +1,9 @@
-package com.mview.customdialog.view.dialog.use;
+package com.morligy.customdialog.view.dialog.use;
 
 import android.graphics.Color;
 
-import com.mview.customdialog.view.dialog.NormalDialog;
-import com.mview.customdialog.view.dialog.listener.OnBtnClickL;
+import com.morligy.customdialog.view.dialog.NormalDialog;
+import com.morligy.customdialog.view.dialog.listener.OnBtnClickL;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.base;
+package com.morligy.customdialog.view.dialog.base;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.mview.customdialog.view.dialog.listener.OnBtnClickL;
+import com.morligy.customdialog.view.dialog.listener.OnBtnClickL;
 
 
 public abstract class BaseAlertDialog<T extends BaseAlertDialog<T>> extends BaseDialog {

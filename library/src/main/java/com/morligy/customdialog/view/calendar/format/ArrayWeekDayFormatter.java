@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar.format;
+package com.morligy.customdialog.view.calendar.format;
 
 /**
  * Use an array to supply week day labels

@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.os.Parcel;
 import android.os.Parcelable;

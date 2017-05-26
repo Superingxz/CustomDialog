@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog;
+package com.morligy.customdialog.view.dialog;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -6,8 +6,8 @@ import android.view.Gravity;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.mview.customdialog.view.dialog.base.BaseTimeDialog;
-import com.mview.customdialog.view.dialog.utils.CornerUtils;
+import com.morligy.customdialog.view.dialog.base.BaseTimeDialog;
+import com.morligy.customdialog.view.dialog.utils.CornerUtils;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.use;
+package com.morligy.customdialog.view.dialog.use;
 
 /**
  * Created by xiao on 2016/12/25 0025.
@@ -8,13 +8,13 @@ package com.mview.customdialog.view.dialog.use;
 import android.content.Context;
 import android.graphics.Color;
 
-import com.mview.customdialog.view.dialog.DateAndTimePickerDialog;
-import com.mview.customdialog.view.dialog.DatePickerDialog;
-import com.mview.customdialog.view.dialog.NormalDialog;
-import com.mview.customdialog.view.dialog.TimePickerDialog;
-import com.mview.customdialog.view.dialog.listener.OnBtnSelectDateAndTimeClickL;
-import com.mview.customdialog.view.dialog.listener.OnBtnSelectTimeClickL;
-import com.mview.customdialog.view.dialog.listener.OnBtnSelectDateClickL;
+import com.morligy.customdialog.view.dialog.DateAndTimePickerDialog;
+import com.morligy.customdialog.view.dialog.DatePickerDialog;
+import com.morligy.customdialog.view.dialog.NormalDialog;
+import com.morligy.customdialog.view.dialog.TimePickerDialog;
+import com.morligy.customdialog.view.dialog.listener.OnBtnSelectDateAndTimeClickL;
+import com.morligy.customdialog.view.dialog.listener.OnBtnSelectTimeClickL;
+import com.morligy.customdialog.view.dialog.listener.OnBtnSelectDateClickL;
 
 import java.util.Calendar;
 

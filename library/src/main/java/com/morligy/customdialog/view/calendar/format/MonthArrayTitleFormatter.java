@@ -1,6 +1,6 @@
-package com.mview.customdialog.view.calendar.format;
+package com.morligy.customdialog.view.calendar.format;
 
-import com.mview.customdialog.view.calendar.CalendarDay;
+import com.morligy.customdialog.view.calendar.CalendarDay;
 
 import android.text.SpannableStringBuilder;
 

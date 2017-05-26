@@ -1,4 +1,4 @@
-package com.mview.customdialog.bean.common;
+package com.morligy.customdialog.bean.common;
 
 import android.annotation.SuppressLint;
 import java.io.Serializable;

@@ -1,9 +1,9 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.content.Context;
 import android.view.MotionEvent;
 
-import com.mview.customdialog.view.calendar.pager.BetterViewPager;
+import com.morligy.customdialog.view.calendar.pager.BetterViewPager;
 
 /**
  * Custom ViewPager that allows swiping to be disabled.

@@ -1,13 +1,13 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.support.annotation.NonNull;
 import android.support.v4.view.PagerAdapter;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.mview.customdialog.view.calendar.format.DayFormatter;
-import com.mview.customdialog.view.calendar.format.TitleFormatter;
-import com.mview.customdialog.view.calendar.format.WeekDayFormatter;
+import com.morligy.customdialog.view.calendar.format.DayFormatter;
+import com.morligy.customdialog.view.calendar.format.TitleFormatter;
+import com.morligy.customdialog.view.calendar.format.WeekDayFormatter;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

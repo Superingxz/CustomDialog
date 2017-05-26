@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -19,7 +19,7 @@ import android.view.Gravity;
 import android.view.View;
 import android.widget.CheckedTextView;
 
-import com.mview.customdialog.view.calendar.format.DayFormatter;
+import com.morligy.customdialog.view.calendar.format.DayFormatter;
 
 import java.util.List;
 

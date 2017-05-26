@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.annotation.SuppressLint;
 import android.support.annotation.NonNull;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.view.accessibility.AccessibilityEvent;
 import android.view.accessibility.AccessibilityNodeInfo;
 
-import com.mview.customdialog.view.calendar.format.DayFormatter;
-import com.mview.customdialog.view.calendar.format.WeekDayFormatter;
+import com.morligy.customdialog.view.calendar.format.DayFormatter;
+import com.morligy.customdialog.view.calendar.format.WeekDayFormatter;
 
 import java.util.ArrayList;
 import java.util.Calendar;

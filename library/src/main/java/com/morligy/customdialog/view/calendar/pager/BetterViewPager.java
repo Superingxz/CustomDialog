@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar.pager;
+package com.morligy.customdialog.view.calendar.pager;
 
 import android.content.Context;
 import android.support.v4.view.ViewPager;

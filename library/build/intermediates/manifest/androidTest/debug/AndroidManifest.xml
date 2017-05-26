@@ -3,8 +3,8 @@
     package="com.morligy.customdialog.test" >
 
     <uses-sdk
-        android:minSdkVersion="9"
-        android:targetSdkVersion="25" />
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
@@ -12,10 +12,6 @@
         android:handleProfiling="false"
         android:label="Tests for com.morligy.customdialog.test"
         android:targetPackage="com.morligy.customdialog.test" />
-
-    <meta-data
-        android:name="android.support.VERSION"
-        android:value="25.3.1" />
 
     <application
         android:allowBackup="true"

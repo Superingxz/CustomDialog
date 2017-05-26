@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog;
+package com.morligy.customdialog.view.dialog;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -19,10 +19,10 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.mview.customdialog.view.dialog.entity.DialogMenuItem;
-import com.mview.customdialog.view.dialog.base.BaseDialog;
-import com.mview.customdialog.view.dialog.listener.OnOperItemClickL;
-import com.mview.customdialog.view.dialog.utils.CornerUtils;
+import com.morligy.customdialog.view.dialog.entity.DialogMenuItem;
+import com.morligy.customdialog.view.dialog.base.BaseDialog;
+import com.morligy.customdialog.view.dialog.listener.OnOperItemClickL;
+import com.morligy.customdialog.view.dialog.utils.CornerUtils;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.mview.customdialog.utils;
+package com.morligy.customdialog.utils;
 
 import java.sql.Timestamp;
 import java.text.DecimalFormat;

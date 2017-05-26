@@ -1,4 +1,4 @@
-package com.mview.customdialog;
+package com.morligy.customdialog;
 
 import org.junit.Test;
 

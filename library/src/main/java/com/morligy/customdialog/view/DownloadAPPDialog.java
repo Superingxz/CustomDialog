@@ -1,4 +1,4 @@
-package com.mview.customdialog.view;
+package com.morligy.customdialog.view;
 
 
 import android.app.Dialog;
@@ -10,7 +10,7 @@ import android.view.WindowManager;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.mview.customdialog.R;
+import com.morligy.customdialog.R;
 
 /**
  * 下载通用 进度dialog

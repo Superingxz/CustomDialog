@@ -1,4 +1,4 @@
-package com.mview.customdialog.view;
+package com.morligy.customdialog.view;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.view.Display;
 import android.view.View;
 import android.view.WindowManager;
 
-import com.mview.customdialog.R;
-import com.mview.customdialog.view.DatePickView.PickerDateListener;
-import com.mview.customdialog.view.DateTimePickView.PickerDateTimeListener;
+import com.morligy.customdialog.R;
+import com.morligy.customdialog.view.DatePickView.PickerDateListener;
+import com.morligy.customdialog.view.DateTimePickView.PickerDateTimeListener;
 
 import java.util.Date;
 

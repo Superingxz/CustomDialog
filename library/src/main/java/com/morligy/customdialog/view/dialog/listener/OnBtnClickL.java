@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.dialog.listener;
+package com.morligy.customdialog.view.dialog.listener;
 
 public interface OnBtnClickL {
 	void onBtnClick();

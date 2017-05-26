@@ -1,4 +1,4 @@
-package com.mview.customdialog.view.calendar;
+package com.morligy.customdialog.view.calendar;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -6,7 +6,7 @@ import android.os.Build;
 import android.view.Gravity;
 import android.widget.TextView;
 
-import com.mview.customdialog.view.calendar.format.WeekDayFormatter;
+import com.morligy.customdialog.view.calendar.format.WeekDayFormatter;
 
 import java.util.Calendar;
 
